@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varsha Dhingra</h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=BF40BF&amp;size=20&amp;lines=Hey!+It's+Varsha+Dhingra!;Java+Back-end+Developer...;" style="width: 100%;">
 <h3 align="center">A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
-<img align="right" width="400" src="https://i.pinimg.com/originals/3d/72/98/3d7298d86eca5f461c969581c1a9af31.png"/>
+<img align="center" width="700" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varuvarshu&label=Profile%20views&color=0e75b6&style=flat" alt="varuvarshu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varuvarshu" alt="varuvarshu" /></a> </p>
