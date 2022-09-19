@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varuvarshu" alt="varuvarshu" /></a> </p>
 
 - 📫 How to reach me **dhingra.varsha24@gmail.com**
+- - 📫 My Portfolio **https://varuvarshu.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,3 +23,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varuvarshu&show_icons=true&locale=en" alt="varuvarshu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varuvarshu&" alt="varuvarshu" /></p>
+
+
+<h2 align="center">📊 My Github Stats<h2>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=varuvarshu&theme=radical" alt="Samruddhi" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=varuvarshu&show_icons=true&theme=radical" height="255px" width="47%"/>
+<div>
+  </br>
+  
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuvarshu&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=varuvarshu&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+<div>
